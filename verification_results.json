@@ -1,0 +1,73 @@
+{
+  "status": "COMPLETE",
+  "original_checks_passed": 12,
+  "original_checks_count": 12,
+  "additional_checks": {
+    "batch_101_outputs": 101,
+    "original_100_batch_outputs_exact": 100,
+    "control_tests": [
+      {
+        "white_pct": 16.0,
+        "blur_rel": 0.0,
+        "ksize": 1,
+        "white_pixels": 10485
+      },
+      {
+        "white_pct": 16.0,
+        "blur_rel": 0.04,
+        "ksize": 11,
+        "white_pixels": 10485
+      },
+      {
+        "white_pct": 16.0,
+        "blur_rel": 0.07,
+        "ksize": 19,
+        "white_pixels": 10485
+      },
+      {
+        "white_pct": 30.0,
+        "blur_rel": 0.0,
+        "ksize": 1,
+        "white_pixels": 19660
+      },
+      {
+        "white_pct": 30.0,
+        "blur_rel": 0.04,
+        "ksize": 11,
+        "white_pixels": 19660
+      },
+      {
+        "white_pct": 30.0,
+        "blur_rel": 0.07,
+        "ksize": 19,
+        "white_pixels": 19660
+      },
+      {
+        "white_pct": 45.0,
+        "blur_rel": 0.0,
+        "ksize": 1,
+        "white_pixels": 29491
+      },
+      {
+        "white_pct": 45.0,
+        "blur_rel": 0.04,
+        "ksize": 11,
+        "white_pixels": 29491
+      },
+      {
+        "white_pct": 45.0,
+        "blur_rel": 0.07,
+        "ksize": 19,
+        "white_pixels": 29491
+      }
+    ],
+    "passed": true
+  },
+  "uploaded_file_comparison": {
+    "exact": 820,
+    "different": [],
+    "missing": []
+  },
+  "kaggle_url": "https://www.kaggle.com/code/mantra26/compvp-part1-verification-20261107",
+  "zip_crc_error": null
+}
