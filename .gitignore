@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+kaggle.json
+access_token
+export/
+part1_output.zip
