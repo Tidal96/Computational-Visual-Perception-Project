@@ -1,0 +1,19 @@
+{
+  "status": "confirmed",
+  "selected_by": "Hadis Nouri",
+  "ids": [
+    "022",
+    "016",
+    "046",
+    "052",
+    "082",
+    "010",
+    "028",
+    "051",
+    "084",
+    "003"
+  ],
+  "instruction": "Student must inspect the review boards and select/confirm ten image IDs. Do not describe these recommendations as a completed student manual selection.",
+  "method": "Student viewed the suggested-pair board and explicitly confirmed these ten image IDs in chat.",
+  "confirmed_utc": "2026-11-08T16:40:35.533164+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "actual_browser_interaction": [
+    {
+      "white": 16,
+      "sigma": 0,
+      "binary": true,
+      "native_resolution": true,
+      "correct_white_pixel_count": true
+    },
+    {
+      "white": 28,
+      "sigma": 8,
+      "binary": true,
+      "native_resolution": true,
+      "correct_white_pixel_count": true
+    },
+    {
+      "white": 40,
+      "sigma": 16,
+      "binary": true,
+      "native_resolution": true,
+      "correct_white_pixel_count": true
+    }
+  ],
+  "screenshots": "Chromium screenshots of the running local tool and its actual source/log endpoints"
+}

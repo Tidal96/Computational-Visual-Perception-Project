@@ -1,0 +1,19 @@
+{
+  "id": "mantra26/compvp-part1-high-resolution-rebuild",
+  "title": "CompVP Part1 high-resolution rebuild",
+  "code_file": "compvp_part1_high_resolution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "mantra26/compvp-part1-hires-input-20261108",
+    "singhaltarun/openaiclip-vit-base-patch32"
+  ],
+  "model_sources": [
+    "itsraininnnn/depth-anything-v2-small-hf/Transformers/default/1"
+  ],
+  "kernel_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:0717e81990be591f8c5f98f033d29ab23e9ffde057e5b3a6bd4371f93969e962"
+}

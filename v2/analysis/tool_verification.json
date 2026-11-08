@@ -1,0 +1,16 @@
+{
+  "batch_101_images": "passed: all outputs native 1024x1024, binary, correct white count",
+  "independent_controls_3x3": "passed: nine different outputs with exact requested white counts",
+  "invalid_controls": "five rejected",
+  "control_output_hashes": {
+    "16.0/0.0": "a60c77ba17015ad515d931aab9db3be90ad952e54a79384ccfa6fb03a198ca4e",
+    "16.0/8.0": "319bee73d576370f9d25c41bda39b6b7ac158dcd706bd6f9c2ac92d87f657bba",
+    "16.0/16.0": "4599931876562dcbe83f0387bcc4821bdd8978aeba3f210cdb09b73823996913",
+    "28.0/0.0": "5402c8a2835c93eb13164ff54e0d14b370a2eb4f55ee374d7f3b30f7fe790d9c",
+    "28.0/8.0": "46b2eafaad852299ffba0b4f0e23807f59a54d73f98e21ce0ce3f2e7ab373dac",
+    "28.0/16.0": "8fba275cf43bdff924c7ebe2ee479ecde6ac2235c43884b0e803bcdd897d051f",
+    "40.0/0.0": "532189a7b40d57486ee3a04b4ad0492379740a619369194cd2f8ed09ef924556",
+    "40.0/8.0": "7ee018531b5dc7d90bdc47a93a639337e752d58bffb1564055ef2f76094407fc",
+    "40.0/16.0": "28c6ef43b89038d52654a3dbb583f8a443cc3d199aed2bf462d8cc821bfe2ff7"
+  }
+}
