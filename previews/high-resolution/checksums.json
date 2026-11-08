@@ -1,0 +1,20 @@
+[
+  {
+    "name": "eight_sample_pairs.png",
+    "bytes": 1059828,
+    "sha256": "e772bad59ef644d64d0a0812815d72be6b69e1d993e161206863b150c6b94126",
+    "git_sha": "3cacbc72ebf496cecb00468cdabaa81b03a379da"
+  },
+  {
+    "name": "native_resolution_example.png",
+    "bytes": 1496632,
+    "sha256": "7c4a1d2f45ef44442491dde0fa57cbaaeaa049ce70f4a19d20af9816062d181e",
+    "git_sha": "36f5daddd5d2cccfea7d500bb347684d94289cc0"
+  },
+  {
+    "name": "Mooney_Quality_Preview_8_Pairs.zip",
+    "bytes": 10442407,
+    "sha256": "115b85f3ffbebd7ee173bda922068bb4aa9a066d436bf7479b452d9378c3fdfd",
+    "git_sha": "16029daec38738d70e4f942a6804f95913d9f500"
+  }
+]
