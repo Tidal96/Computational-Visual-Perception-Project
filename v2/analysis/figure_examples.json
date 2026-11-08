@@ -1,0 +1,21 @@
+{
+  "depth_examples": [
+    "003",
+    "024",
+    "087"
+  ],
+  "depth_quantile_positions": [
+    10,
+    50,
+    90
+  ],
+  "clip_examples": [
+    "010",
+    "022",
+    "052",
+    "001"
+  ],
+  "clip_mooney_failures": [
+    "001"
+  ]
+}

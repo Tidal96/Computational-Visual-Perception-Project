@@ -1,0 +1,87 @@
+{
+  "n": 100,
+  "depth": {
+    "mean_paired_pearson": 0.48444105028728596,
+    "median_paired_pearson": 0.5064474376205018,
+    "std_paired_pearson": 0.20035605321824232,
+    "mean_next_image_control": 0.28441679458394264,
+    "paired_above_control_count": 79,
+    "mean_all_unrelated_64px_control": 0.298899382352829
+  },
+  "clip": {
+    "Original": {
+      "mean_face_prompt_share": 0.8363790762424469,
+      "median_face_prompt_share": 0.866305947303772,
+      "std_face_prompt_share": 0.12576137229249396,
+      "face_prompt_top1_count": 99,
+      "top1_counts": {
+        "a photo of a human face": 99,
+        "a photo of an object": 1
+      }
+    },
+    "Mooney": {
+      "mean_face_prompt_share": 0.9130561313033104,
+      "median_face_prompt_share": 0.952519953250885,
+      "std_face_prompt_share": 0.10387789544249176,
+      "face_prompt_top1_count": 99,
+      "top1_counts": {
+        "a black and white image of a human face": 99,
+        "an ink blot": 1
+      }
+    }
+  },
+  "afc8": [
+    {
+      "system": "CLIP",
+      "probe": "Original",
+      "gallery": "Mooney",
+      "correct": 57,
+      "n": 100,
+      "accuracy": 0.57,
+      "wilson95_low": 0.47215389549212305,
+      "wilson95_high": 0.6626670147588988,
+      "p_vs_chance_descriptive": 4.567837727702616e-26
+    },
+    {
+      "system": "CLIP",
+      "probe": "Mooney",
+      "gallery": "Original",
+      "correct": 43,
+      "n": 100,
+      "accuracy": 0.43,
+      "wilson95_low": 0.3373329852411011,
+      "wilson95_high": 0.5278461045078768,
+      "p_vs_chance_descriptive": 3.394103826540529e-14
+    },
+    {
+      "system": "Depth Anything",
+      "probe": "Original",
+      "gallery": "Mooney",
+      "correct": 39,
+      "n": 100,
+      "accuracy": 0.39,
+      "wilson95_low": 0.3001687400639442,
+      "wilson95_high": 0.4879698295415927,
+      "p_vs_chance_descriptive": 2.005872422366154e-11
+    },
+    {
+      "system": "Depth Anything",
+      "probe": "Mooney",
+      "gallery": "Original",
+      "correct": 37,
+      "n": 100,
+      "accuracy": 0.37,
+      "wilson95_low": 0.28182360534324535,
+      "wilson95_high": 0.4677947041905709,
+      "p_vs_chance_descriptive": 3.819031954134772e-10
+    }
+  ],
+  "limitations": [
+    "No ground-truth depth: correlations measure consistency, not reconstruction accuracy.",
+    "All original stimuli are faces; distractor prompts do not form a labeled multiclass test set.",
+    "CLIP shares depend on these eight prompts and are not calibrated probabilities.",
+    "8AFC uses the same photo in different representations, unlike Paper 1 cross-pose identity matching.",
+    "Binomial p values are descriptive: probes and gallery images are reused.",
+    "Source selection is a visual/illumination screening sample, not a random population sample."
+  ]
+}

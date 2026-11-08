@@ -1,0 +1,12 @@
+{
+  "kaggle_status": "COMPLETE",
+  "archive_sha256_verified": true,
+  "archive_crc_verified": true,
+  "source_zip_crc_verified": true,
+  "all_821_file_checksums_verified": true,
+  "independent_local_checks_passed": 11,
+  "same_originals_in_local_and_kaggle": 100,
+  "maximum_mooney_pixel_difference_fraction": 0.0,
+  "maximum_CLIP_prompt_share_difference": 2.682209014892578e-06,
+  "canonical_results": "Kaggle output archive; platform differences are recorded rather than assumed byte-identical."
+}

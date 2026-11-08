@@ -2,6 +2,16 @@
 
 Author: **Hadis Nouri**, individual project. This rebuild covers **Task 1, Task 2 and Task 3 of Project Part 1** in the supplied assignment brief.
 
+## Download the completed rebuild
+
+- **Course submission ZIP:** [Kaggle Output](https://www.kaggle.com/code/mantra26/compvp-part1-high-resolution-rebuild/output). Sign in as `mantra26` and download **CompVP_Part1_Hadis_Nouri.zip**. The notebook and its input dataset are private.
+- [Download PowerPoint from Kaggle Output](https://www.kaggle.com/code/mantra26/compvp-part1-high-resolution-rebuild/output) — file: `CompVP_Part1_Hadis_Nouri.pptx`
+- [View/download presentation PDF](https://raw.githubusercontent.com/Tidal96/Computational-Visual-Perception-Project/main/v2/deliverables/CompVP_Part1_Hadis_Nouri.pdf)
+- [Download source and analysis ZIP](https://raw.githubusercontent.com/Tidal96/Computational-Visual-Perception-Project/main/v2/deliverables/CompVP_Part1_Source_Analysis.zip)
+- [Requirement-by-requirement checklist](REQUIREMENTS_CHECKLIST.md) · [Results and verification](RESULTS.md)
+
+Kaggle execution: **COMPLETE**, version 2. The downloaded submission ZIP passed CRC, SHA-256 and all 821 per-file checksum checks. Only the course submission ZIP is intended for StudOn; the companion ZIP is for reproducibility.
+
 ## Deliverables
 
 - 100 FFHQ photographs and 100 binary Mooney PNGs, all supplied/exported at 1024 × 1024.

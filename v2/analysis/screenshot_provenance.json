@@ -1,0 +1,9 @@
+{
+  "capture": "Actual Chromium screenshot of the running local GUI and actual generator source endpoint",
+  "generator_function_sha256": "5aea2afb3e5eb8d4f428d02d9818c95d6d34ba2fa453c7eda71daa525254e3ad",
+  "files": {
+    "tool_gui.png": "5d2920b8784af5d1cd5903d957eef0303ebf3f30905e0e59d61740f97f17f1a3",
+    "generator_code.png": "7cb5571a1a5f50e414195aab47a6409200716e870f89c8b6283e37854bd5d942"
+  },
+  "gui_browser_checks": "gui_checks.json"
+}
