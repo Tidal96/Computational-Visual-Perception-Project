@@ -1,0 +1,17 @@
+{
+  "status": "awaiting student manual selection",
+  "selected_by": "assistant recommendation",
+  "ids": [
+    "022",
+    "016",
+    "046",
+    "052",
+    "082",
+    "010",
+    "028",
+    "051",
+    "084",
+    "003"
+  ],
+  "instruction": "Student must inspect the review boards and select/confirm ten image IDs. Do not describe these recommendations as a completed student manual selection."
+}
