@@ -1,0 +1,35 @@
+{
+  "kaggle_status": "COMPLETE",
+  "kaggle_output_matches_locally_verified_archive": true,
+  "archive": "CompVP_Part1_Hadis_Nouri_Final.zip",
+  "bytes": 418890121,
+  "sha256": "4780b5601f7be5cde7c3c9f3410e2d8762c013c9cb3bd0d3ec201fc09222e80d",
+  "md5": "61792ebbe3c07d16e478cf2dfb2b933b",
+  "archive_crc": "passed",
+  "archive_sha256_per_member": "passed",
+  "data_files_matched_to_verified_Kaggle_archive": 820,
+  "powerpoint_files_at_root": 1,
+  "counts": {
+    ".": 1,
+    "Mooney": 100,
+    "Original": 100,
+    "Result1/Mooney": 200,
+    "Result1/Original": 200,
+    "Result2/Mooney": 100,
+    "Result2/Original": 100,
+    "Subset/Mooney": 10,
+    "Subset/Original": 10
+  },
+  "manual_subset": [
+    "022",
+    "016",
+    "046",
+    "052",
+    "082",
+    "010",
+    "028",
+    "051",
+    "084",
+    "003"
+  ]
+}

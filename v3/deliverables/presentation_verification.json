@@ -1,0 +1,22 @@
+{
+  "slides": 24,
+  "slide_titles_checked": [
+    "Mooney Faces",
+    "Approach and idea",
+    "Ten selected originals and ten Mooneys",
+    "Vision systems used",
+    "Result1 \u00b7 Depth Anything outputs",
+    "Result1 \u00b7 Depth agreement across 100 pairs",
+    "Result2 \u00b7 CLIP outputs",
+    "Result2 \u00b7 Face prompts across 200 images",
+    "Screenshot of the Mooney tool",
+    "Screenshot of the Mooney generation code",
+    "Declaration of AI usage",
+    "Submission ZIP contents",
+    "Part 1 deliverables checklist",
+    "Sources and references"
+  ],
+  "subset_images": 20,
+  "edit_save_reopen_check_on_copy": "passed",
+  "presentation_package_crc": "passed"
+}
