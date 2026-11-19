@@ -4,7 +4,9 @@ Hadis Nouri · Individual project · 19 November 2026
 
 Download **CompVP_Part1_Hadis_Nouri_Final.zip** from the [private Kaggle Output tab](https://www.kaggle.com/code/mantra26/compvp-part1-final-submission/output). Sign in as `mantra26`. This is the single archive for StudOn.
 
-The revised [editable PowerPoint](deliverables/CompVP_Part1_Hadis_Nouri.pptx) and [PDF](deliverables/CompVP_Part1_Hadis_Nouri.pdf) are also available separately.
+The revised [editable PowerPoint](deliverables/CompVP_Part1_Hadis_Nouri_Final.pptx) and [PDF](deliverables/CompVP_Part1_Hadis_Nouri.pdf) are also available separately.
+
+The final presentation has 24 slides. [View slide 10, including the generator code](deliverables/Slide_10_Mooney_Code.jpg). The earlier 26-slide Kaggle presentation has the CLIP chart on slide 10.
 
 ## ZIP inventory
 
